@@ -6,7 +6,6 @@ Problema    : https://judge.beecrowd.com/pt/problems/view/1000
 Data        : 07/06/2026
 Objetivo    : Escrever "Hello World!".
 Aprendizado : O uso do comando printf
-Pergunta de segunda ordem: printf
 -------------------------------------------------------------------------- */
 
 #include<stdio.h>
